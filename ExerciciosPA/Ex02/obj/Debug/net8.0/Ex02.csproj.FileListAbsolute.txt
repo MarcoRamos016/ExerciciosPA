@@ -1,0 +1,14 @@
+C:\ExerciciosPA\Ex02\bin\Debug\net8.0\Ex02.exe
+C:\ExerciciosPA\Ex02\bin\Debug\net8.0\Ex02.deps.json
+C:\ExerciciosPA\Ex02\bin\Debug\net8.0\Ex02.runtimeconfig.json
+C:\ExerciciosPA\Ex02\bin\Debug\net8.0\Ex02.dll
+C:\ExerciciosPA\Ex02\bin\Debug\net8.0\Ex02.pdb
+C:\ExerciciosPA\Ex02\obj\Debug\net8.0\Ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExerciciosPA\Ex02\obj\Debug\net8.0\Ex02.AssemblyInfoInputs.cache
+C:\ExerciciosPA\Ex02\obj\Debug\net8.0\Ex02.AssemblyInfo.cs
+C:\ExerciciosPA\Ex02\obj\Debug\net8.0\Ex02.csproj.CoreCompileInputs.cache
+C:\ExerciciosPA\Ex02\obj\Debug\net8.0\Ex02.dll
+C:\ExerciciosPA\Ex02\obj\Debug\net8.0\refint\Ex02.dll
+C:\ExerciciosPA\Ex02\obj\Debug\net8.0\Ex02.pdb
+C:\ExerciciosPA\Ex02\obj\Debug\net8.0\Ex02.genruntimeconfig.cache
+C:\ExerciciosPA\Ex02\obj\Debug\net8.0\ref\Ex02.dll

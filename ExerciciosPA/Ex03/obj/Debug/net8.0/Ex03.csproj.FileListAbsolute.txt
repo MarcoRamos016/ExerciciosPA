@@ -1,0 +1,14 @@
+C:\ExerciciosPA\Ex03\bin\Debug\net8.0\Ex03.exe
+C:\ExerciciosPA\Ex03\bin\Debug\net8.0\Ex03.deps.json
+C:\ExerciciosPA\Ex03\bin\Debug\net8.0\Ex03.runtimeconfig.json
+C:\ExerciciosPA\Ex03\bin\Debug\net8.0\Ex03.dll
+C:\ExerciciosPA\Ex03\bin\Debug\net8.0\Ex03.pdb
+C:\ExerciciosPA\Ex03\obj\Debug\net8.0\Ex03.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExerciciosPA\Ex03\obj\Debug\net8.0\Ex03.AssemblyInfoInputs.cache
+C:\ExerciciosPA\Ex03\obj\Debug\net8.0\Ex03.AssemblyInfo.cs
+C:\ExerciciosPA\Ex03\obj\Debug\net8.0\Ex03.csproj.CoreCompileInputs.cache
+C:\ExerciciosPA\Ex03\obj\Debug\net8.0\Ex03.dll
+C:\ExerciciosPA\Ex03\obj\Debug\net8.0\refint\Ex03.dll
+C:\ExerciciosPA\Ex03\obj\Debug\net8.0\Ex03.pdb
+C:\ExerciciosPA\Ex03\obj\Debug\net8.0\Ex03.genruntimeconfig.cache
+C:\ExerciciosPA\Ex03\obj\Debug\net8.0\ref\Ex03.dll
